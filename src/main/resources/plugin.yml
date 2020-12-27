@@ -1,0 +1,10 @@
+main: de.extremtechniker.myserverplugin.Main
+name: MyServerPlugin
+version: '1.0'
+description: My own Server Plugin
+load: POSTWORLD
+author: ExtremTechniker
+website: github.com/ExtremTechniker
+commands:
+  spawn:
+    description: The spawn command
